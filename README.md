@@ -1,1 +1,1 @@
-This is a personal site where I'm digitizing all of my recipies! You can find the full site here: https://ulbri1lp.github.io/laurens-digital-cookbook/
+This is a personal site where I'm digitizing all of my recipies! You can find the full site here: https://ulbri1lp.github.io/laurens-digital-cookbook/. For instructions on how I created this site, please check out https://morskyjezek.github.io/si676-2025-activities/posts/lab-jekyll-dns
